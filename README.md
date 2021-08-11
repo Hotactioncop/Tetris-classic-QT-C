@@ -2,5 +2,5 @@
 Classic Tetris game developed on QT with C++
 
 Press Start and enjoy.
-</b>
+<br />
 ![preview](./ReadmeDoc/Tetris.png)
